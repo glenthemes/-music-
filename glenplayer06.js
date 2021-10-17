@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-fetch("//dl.dropbox.com/s/bzbc64oij7f3gse/vinyl-svg.html")
+fetch("//cdn.discordapp.com/attachments/382037367940448256/899177831970512936/vinyl-svg.html")
 .then(get_vinylsvg => {
   return get_vinylsvg.text()
 })
