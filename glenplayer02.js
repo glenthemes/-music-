@@ -127,7 +127,7 @@ $(document).ready(function(){
         $("[M02pause]").addClass("qxdvl");
     });
     
-    /* initialize line icons by ahme agrma */
+    /* initialize line icons by ahmed agrma */
     /* glenthemes.tumblr.com/icons/aa-line-icons */
     $("head").prepend("<link href='//glenthemes.github.io/aa-line-icons/style.css' rel='stylesheet'>");
     
