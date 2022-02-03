@@ -6,6 +6,11 @@
     Rework date: 2022/02/03
     Last updated: 2022/02/03
     
+    CREDITS:
+    > play & pause icons: Phosphor Icons
+    > music note icon: by Ahmed Agrma
+      behance.net/gallery/94660737/400-Free-Line-Icons
+    
     WHAT'S COOKIN, TRAVELLER? 
     it's been a tradition of mine to put hidden
     learning resources here in the comments, so
