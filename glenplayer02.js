@@ -33,6 +33,8 @@ var on_main = window.location.href.indexOf("/customize") < 0;
 
 $(document).ready(function(){
     
+    $("[glenplayer02] .tumblr_preview_marker___").remove();
+    
     /* add the buttons */
     $("[glenplayer02] [controls]").each(function(){
         $(this).attr("M02controls","");
