@@ -17,6 +17,7 @@
     position:fixed;
     display:flex;
     align-items:center;
+    visibility:hidden;
     z-index:69;
 }
 
