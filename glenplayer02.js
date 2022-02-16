@@ -4,7 +4,7 @@
     
     Initial release: 2018/10/30
     Rework date: 2022/02/03
-    Last updated: 2022/02/03
+    Last updated: 2022/02/16
     
     CREDITS:
     > play & pause icons: Phosphor Icons
@@ -167,4 +167,7 @@ $(document).ready(function(){
             $(this).nextUntil("audio").wrapAll("<div song-name></div>")
         }
     })
+    
+    $("[glenplayer02]").css("visibility","visible");
+    
 })// end ready
